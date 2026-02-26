@@ -5,7 +5,8 @@ cd backend
 python -m venv .venv
 ```
 Windows:
-```bash
+```bash 
+
 .venv\Scripts\activate
 ```
 Mac/Linux:
@@ -51,4 +52,4 @@ Frontend will be available at:
 
 ```
 http://localhost:8080
-```
+``` 
